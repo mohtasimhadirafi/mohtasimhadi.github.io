@@ -1,8 +1,8 @@
 const INFO = {
 	main: {
-		title: "Reactfolio by truethari",
-		name: "Tharindu N.",
-		email: "mail@tharindu.dev",
+		title: "Mohtasim Hadi Rafi",
+		name: "Mohtasim Hadi Rafi",
+		email: "mohtasimhadi@gmail.com",
 		logo: "../logo.png",
 	},
 
@@ -16,15 +16,15 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Full-stack web and mobile app developer, and amateur astronaut.",
+		title: "Mohtasim Hadi Rafi",
 		description:
-			"I am a backend developer with expertise in Node.js. I have experience in building scalable, secure and reliable web applications using various frameworks and technologies. I enjoy solving complex problems and learning new skills. I am passionate about creating high-quality code that follows best practices and industry standards. I am always looking for new challenges and opportunities to grow as a developer.",
+			"I am an Analytics Engineer with a passion for leveraging data-driven insights to drive business growth. Currently, I work at Intelligent Machines Limited in Dhaka, Bangladesh, where I have developed an analytic module and data pipeline for bank statement and CIB analysis, empowering bankers with valuable transaction behavior metrics. Additionally, I collaborated with a diverse team to build a recommendation engine for a multinational company, optimizing marketing strategies based on sales data. I hold a BSc Engg. in Software Engineering from the Islamic University of Technology, with a strong foundation in design patterns, server programming, and software design. My recent thesis focused on an efficient deep learning-based approach for recognizing agricultural pests, demonstrating my ability to develop robust pipelines using ensemble methods. I am proficient in Python, TypeScript, JavaScript, and R, and have expertise in technologies such as Pandas, Django, React, and Firebase. With certifications in Google Data Analytics and a range of skills in version control, databases, and data visualization, I am equipped to tackle complex analytical challenges. Beyond work, I enjoy reading and writing literature, exploring new destinations through solo travel, and playing musical instruments. I am fluent in both English and Bangla.",
 	},
 
 	about: {
-		title: "I’m Tharindu N. I live in Sri Lanka, where I design the future.",
+		title: "Mohtasim Hadi Rafi",
 		description:
-			"I've worked on a variety of projects over the years and I'm proud of the progress I've made. Many of these projects are open-source and available for others to explore and contribute to. If you're interested in any of the projects I've worked on, please feel free to check out the code and suggest any improvements or enhancements you might have in mind. Collaborating with others is a great way to learn and grow, and I'm always open to new ideas and feedback.",
+			"I am an Analytics Engineer with a passion for leveraging data-driven insights to drive business growth. Currently, I work at Intelligent Machines Limited in Dhaka, Bangladesh, where I have developed an analytic module and data pipeline for bank statement and CIB analysis, empowering bankers with valuable transaction behavior metrics. Additionally, I collaborated with a diverse team to build a recommendation engine for a multinational company, optimizing marketing strategies based on sales data. I hold a BSc Engg. in Software Engineering from the Islamic University of Technology, with a strong foundation in design patterns, server programming, and software design. My recent thesis focused on an efficient deep learning-based approach for recognizing agricultural pests, demonstrating my ability to develop robust pipelines using ensemble methods. I am proficient in Python, TypeScript, JavaScript, and R, and have expertise in technologies such as Pandas, Django, React, and Firebase. With certifications in Google Data Analytics and a range of skills in version control, databases, and data visualization, I am equipped to tackle complex analytical challenges. Beyond work, I enjoy reading and writing literature, exploring new destinations through solo travel, and playing musical instruments. I am fluent in both English and Bangla.",
 	},
 
 	articles: {
